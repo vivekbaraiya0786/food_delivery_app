@@ -1,0 +1,50 @@
+[
+  {
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Restaurant 1",
+        "cuisine": "Italian",
+        "address": "123 Main St",
+        "phone": "555-123-4567",
+        "image_url": "assets/images/Italian.jpeg",
+        "menu": [
+          {
+            "item_id": 1,
+            "name": "Pizza Margherita",
+            "price": 10.99,
+            "image_url": "assets/images/Pizza Margherita.jpeg"
+          },
+          {
+            "item_id": 2,
+            "name": "Pasta Carbonara",
+            "price": 12.99,
+            "image_url": "assets/images/Pasta Carbonara.jpeg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Restaurant 2",
+        "cuisine": "Mexican",
+        "address": "456 Elm St",
+        "phone": "555-987-6543",
+        "image_url": "assets/images/Mexican.jpeg",
+        "menu": [
+          {
+            "item_id": 1,
+            "name": "Taco Supreme",
+            "price": 5.99,
+            "image_url": "assets/images/Taco Supreme.jpeg"
+          },
+          {
+            "item_id": 2,
+            "name": "Burrito Grande",
+            "price": 8.99,
+            "image_url": "assets/images/Burrito Grande.jpeg"
+          }
+        ]
+      }
+    ]
+  }
+]
